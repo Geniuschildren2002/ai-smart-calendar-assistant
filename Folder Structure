@@ -1,0 +1,16 @@
+/src
+  /agents
+    scheduler-agent.ts
+    conflict-resolver.ts
+    optimizer.ts
+  /api
+  /services
+  /integrations
+    google-calendar.ts
+  /prompts
+  /utils
+/docs
+README.md
+architecture.md
+patent-note.md
+demo.md
